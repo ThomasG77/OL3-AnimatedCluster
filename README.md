@@ -6,3 +6,5 @@ Inspired by [acanimal/AnimatedCluster](https://github.com/acanimal/AnimatedClust
 [View the live  example...](http://viglino.github.io/OL3-AnimatedCluster)
 
 If you like this, you may like [ol3-ext](http://viglino.github.io/ol3-ext/).
+
+NEW TEST
